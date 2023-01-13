@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855633395420",
+    "project_id": "elixer-cbf0d",
+    "storage_bucket": "elixer-cbf0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855633395420:android:025e4f2cafda6f99853e19",
+        "android_client_info": {
+          "package_name": "com.elixer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855633395420-to5ci63q4f57ufvnoc029n9ddm4ksn5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTP-S5Jy6V5s-B2Om7DLATErsAT2csjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855633395420-to5ci63q4f57ufvnoc029n9ddm4ksn5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

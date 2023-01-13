@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ELixeR</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="please_enter_your_code_that_we_have_send_to_your">Please enter your code that we have send to your</string>
+    <string name="email_address">Email Address</string>
+    <string name="test_gmail_com">test@gmail.com</string>
+    <string name="_91_9865425638">+91 9865425638</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_receive_otp">Didn\'t receive OTP</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="please_login_to_your_account">Please login to your account</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="TODO">TODO</string>
+    <string name="or">OR</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
